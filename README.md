@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaydennna92&count_bg=%23EE3F72&title_bg=%2363C0F0&icon=mailchimp.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2318B0CE&title_bg=%23FF9000&icon=mailchimp.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 # 나장엽 | 기록으로 일하는 개발자
 🤚🏻 안녕하세요. 주니어 프론트엔드 개발자 나장엽입니다.
@@ -7,9 +7,7 @@
   <div>
     <h3>Contact</h3>
     <a href='mailto:kaydenna92@gmail.com'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-  </div>
-  <div>
-    <h3>Recode</h3>
+        <h3>Blog</h3>
     <a href="https://velog.io/@kaydennna92"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
   </div>
 </div>
@@ -25,7 +23,7 @@
 
 ## Skills
 <div>
-  <div>
+  <div stlye={align: 'center'}>
     <div>
       <h4> Use Well </h4>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
@@ -57,3 +55,5 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white">
   </div>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaydennna92)](https://github.com/kaydennna92/github-readme-stats)
