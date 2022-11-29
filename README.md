@@ -1,5 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaydennna92&count_bg=%2318B0CE&title_bg=%23FF9000&icon=mailchimp.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-# 나장엽 | 기록으로 일하는 개발자
+
+<div align='center'><h1>나장엽 | 기록으로 일하는 개발자</h1></div>
 <div align='center'>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kaydennna92&show_icons=true&theme=gruvbox"/>
 <p>🤚🏻 안녕하세요. 주니어 프론트엔드 개발자 나장엽입니다.</p>
