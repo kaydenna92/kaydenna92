@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 나장엽 | 기록으로 일하는 개발자
+🤚🏻 안녕하세요. 주니어 프론트엔드 개발자 나장엽입니다.
+
+<h3>Introduce</h3>
